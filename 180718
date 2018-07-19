@@ -1,0 +1,13 @@
+GitHub第二天学习tensorflow实例
+
+几个很好的网站：
+
+1、上面有一些基本介绍与操作方式https://blog.csdn.net/soulmeetliang/article/details/75666675
+
+2、廖雪峰的python简单教程，mark一下 https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000
+
+3、morvanzhou的好例子，对初学者代码实现有帮助https://github.com/MorvanZhou/Tensorflow-Tutorial/tree/master/tutorial-contents
+
+4、一个好玩的可视化网站http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.92879&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+5、mnist数据中文版http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html
